@@ -1,3 +1,5 @@
+# Python Ejercicios Practicos
+
 | Ejercicios Practicos | Readme     |
 |----------------------|------------|
 |Python                |Practica    |
@@ -7,6 +9,6 @@
 |Funciones             |Ejericicio 4|
 |Listas                |Ejericicio 5|
 
-#Desarrollo de ejercicios practicas
+## Desarrollo de ejercicios practicas
 
 En este **Repositorio** Veremos ejercicios practicos elaboradors en Python. 
